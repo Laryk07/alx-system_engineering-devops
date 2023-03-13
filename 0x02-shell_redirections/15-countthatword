@@ -1,0 +1,2 @@
+#!/bin/bash
+prep -c -s "bin" /etc/passwd
